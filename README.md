@@ -1,0 +1,1 @@
+# MasterDetails_MVCCore
